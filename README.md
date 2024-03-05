@@ -10,5 +10,5 @@ How to run and test the application:
       Port [5432]
       Username [postgres]
       Password [geslo]
-  2. Run the program by typing: mvn quarkus:dev - if using maven or if yopu are using quarkus cli type: quarkus dev. You can see it on localhost:8080
+  2. Run the program by typing: mvn quarkus:dev - if using maven or if you are using quarkus cli type: quarkus dev. You can see it on localhost:8080
   3. Test with: mvn test
